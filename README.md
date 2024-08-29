@@ -1,1 +1,1 @@
-# OIBSIP-Project-2---Online-Reservation-System-using-java
+# OIBSIP-Project-1---Online-Reservation-System-using-java
